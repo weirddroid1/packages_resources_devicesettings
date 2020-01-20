@@ -304,4 +304,8 @@
     <!-- Ambient Display -->
     <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
     <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
+
+    <!-- Quick charge toggle -->
+    <string name="quick_charge_title">Quick charge</string>
+    <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
 </resources>
