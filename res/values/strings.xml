@@ -256,8 +256,8 @@
     <string name="alert_slider_notification_dialog_summary">Display a dialog when the alert slider position changes</string>
 
     <!-- OnePLus specific Strings -->
-    <string name="device_title">OnePlus Settings</string>
-    <string name="device_summary">Adjust OnePlus specific device settings</string>
+    <string name="device_title">Advanced Device Settings</string>
+    <string name="device_summary">Adjust device specific settings</string>
 
     <!-- Display modes -->
     <string name="display_title">Display modes</string>
