@@ -77,6 +77,8 @@
     <string name="pulse_ambient_light_color_mode_accent">Accent</string>
     <string name="pulse_ambient_light_color_mode_custom">Custom</string>
     <string name="pulse_ambient_light_duration_title">Light duration</string>
+    <string name="pulse_ambient_light_repeat_count_title">Repeat count</string>
+    <string name="pulse_ambient_light_repeat_count_summary">Set max repeat count. 0 for infinite</string>
 
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Tilt sensor</string>
