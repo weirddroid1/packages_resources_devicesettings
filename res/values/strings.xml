@@ -73,7 +73,7 @@
     <string name="pulse_ambient_light_summary">Light up the side edges of the screen on notification pulse</string>
     <string name="pulse_ambient_light_color_title">Edge light color</string>
     <string name="pulse_ambient_light_color_mode_title">Light color</string>
-    <string name="pulse_ambient_light_color_mode_wall">Automatic (Wallpaper Based)</string>
+    <string name="pulse_ambient_light_color_mode_wall">Wallpaper based</string>
     <string name="pulse_ambient_light_color_mode_accent">Accent</string>
     <string name="pulse_ambient_light_color_mode_custom">Custom</string>
     <string name="pulse_ambient_light_duration_title">Light duration</string>
@@ -81,6 +81,8 @@
     <string name="pulse_ambient_light_repeat_count_summary">Set max repeat count. 0 for infinite</string>
     <string name="pulse_ambient_light_repeat_direction_title">Repeat direction</string>
     <string name="pulse_ambient_light_repeat_direction_summary">Enable for reverse repeat direction, disable for restart</string>
+    <string name="pulse_ambient_light_color_automatic_title">Use notification color</string>
+    <string name="pulse_ambient_light_color_automatic_summary">Use app notifications color for edge lighting</string>
 
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Tilt sensor</string>
