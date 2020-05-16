@@ -79,6 +79,8 @@
     <string name="pulse_ambient_light_duration_title">Light duration</string>
     <string name="pulse_ambient_light_repeat_count_title">Repeat count</string>
     <string name="pulse_ambient_light_repeat_count_summary">Set max repeat count. 0 for infinite</string>
+    <string name="pulse_ambient_light_repeat_direction_title">Repeat direction</string>
+    <string name="pulse_ambient_light_repeat_direction_summary">Enable for reverse repeat direction, disable for restart</string>
 
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Tilt sensor</string>
