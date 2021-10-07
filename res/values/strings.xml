@@ -321,4 +321,8 @@
     <!-- Wake on gesture -->
     <string name="wake_on_gesture_title">Wake up on gestures</string>
     <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
+
+    <!-- Ambient Display Swipe Gesture -->
+    <string name="ambient_swipe_title">Ambient display swipe</string>
+    <string name="ambient_swipe_summary">Enable up or down swipe on Ambient Display</string>
 </resources>
