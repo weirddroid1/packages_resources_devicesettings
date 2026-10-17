@@ -67,32 +67,6 @@
     <string name="ambient_display_always_on_title">Always on</string>
     <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
 
-    <!-- Edge light -->
-    <string name="accent_color">Accent color</string>
-    <string name="notification_color">Notification color</string>
-    <string name="wallpaper_color">Wallpaper color</string>
-    <string name="rainbow_color">Rainbow color</string>
-    <string name="custom_color">Custom color</string>
-
-    <string name="edge_light_enable_title">Ambient edge lighting</string>
-    <string name="edge_light_title">Edge light</string>
-    <string name="edge_light_summary">Light up the side edges of the screen on notification pulse</string>
-    <string name="edge_light_color_mode_title">Color mode</string>
-    <string name="edge_light_pulse_count_title">Pulse count</string>
-    <string name="edge_light_pulse_count_summary">Number of pulses for edge light</string>
-    <string name="edge_light_stroke_width_title">Stroke width</string>
-    <string name="edge_light_stroke_width_summary">Set thickness for edge light bars</string>
-    <string name="edge_light_style_title">Render style</string>
-    <string name="edge_light_style_default">Default (left/right)</string>
-    <string name="edge_light_style_frame">Frame (all sides)</string>
-    <string name="edge_light_animation_effect_title">Animation effect</string>
-    <string name="edge_light_animation_effect_none">Standard</string>
-    <string name="edge_light_animation_effect_breathing">Breathing</string>
-    <string name="edge_light_animation_effect_wave">Wave</string>
-    <string name="edge_light_animation_effect_sparkle">Sparkle</string>
-    <string name="edge_light_animation_effect_chase">Chase</string>
-    <string name="edge_light_animation_effect_comet">Comet</string>
-
     <!-- Tilt sensor -->
     <string name="tilt_sensor_title">Tilt sensor</string>
 
@@ -269,71 +243,4 @@
     <string name="alert_slider_mute_media_summary">Mute media when switching to silent</string>
     <string name="alert_slider_notification_dialog_title">Show slider dialog</string>
     <string name="alert_slider_notification_dialog_summary">Display a dialog when the alert slider position changes</string>
-
-    <!-- OnePLus specific Strings -->
-    <string name="device_title">Advanced Device Settings</string>
-    <string name="device_summary">Adjust device specific settings</string>
-
-    <!-- Display modes -->
-    <string name="display_title">Display modes</string>
-    <string name="display_summary">Adjust settings and preferences for display</string>
-    <string name="srgb_mode_summary"></string>
-    <string name="srgb_mode_title">sRGB mode</string>
-    <string name="hbm_mode_summary"></string>
-    <string name="hbm_mode_title">High brightness mode</string>
-    <string name="dc_mode_summary"></string>
-    <string name="dc_mode_title">DC-Dimming</string>
-    <string name="dci_mode_summary"></string>
-    <string name="dci_mode_title">Display-P3</string>
-    <string name="Wide_mode_summary"></string>
-    <string name="Wide_mode_title">AMOLED Wide Gamut</string>
-    <string name="panel_category_title">Panel modes</string>
-    <string name="panel_category_summary">Modes for panel color correction</string>
-    <string name="off_mode_title">Off</string>
-    <string name="tile_panel_mode">Panel modes</string>
-    <string name="tile_hbm_mode">High brightness modes</string>
-    <string name="tile_dc_mode">DC-Dimming</string>
-
-    <!-- Notification slider -->
-    <string name="notification_slider_category_title">Notification slider</string>
-    <string name="notification_slider_selection_dialog_title">Action</string>
-    <string name="notification_slider_top_position">Top position</string>
-    <string name="notification_slider_middle_position">Middle position</string>
-    <string name="notification_slider_bottom_position">Bottom position</string>
-    <string name="notification_slider_mode_total_silence">Total silence</string>
-    <string name="notification_slider_mode_alarms_only">Alarms only</string>
-    <string name="notification_slider_mode_priority_only">Priority only</string>
-    <string name="notification_slider_mode_silent">Silent</string>
-    <string name="notification_slider_mode_vibrate">Vibrate</string>
-    <string name="notification_slider_mode_none">Normal</string>
-    <string name="buttons_dashboard_summary">Alert Slider Settings</string>
-
-    <!-- Vibration control -->
-    <string name="category_vibrator">Vibrator</string>
-    <string name="vib_strength_title_head">System Strength</string>
-    <string name="vib_strength_summary_head">Define the strength of the vibrator</string>
-    <string name="vib_call_strength_title_head">Call Strength</string>
-    <string name="vib_call_strength_summary_head">Define the strength of the vibrator during an incoming call</string>
-    <string name="vib_notif_strength_title_head">Notification Strength</string>
-    <string name="vib_notif_strength_summary_head">Define the strength of the vibrator during an incoming notification</string>
-
-    <!-- Ambient Display -->
-    <string name="pulse_on_new_tracks_title">Ambient music ticker</string>
-    <string name="pulse_on_new_tracks_summary">Show Ambient Display when a new music track is played</string>
-
-    <!-- Quick charge toggle -->
-    <string name="quick_charge_title">Quick charge</string>
-    <string name="quick_charge_summary">Toggle quick charge. Unplug and replug the charger after changing this setting</string>
-
-    <!-- Camera focus fix toggle -->
-    <string name="camera_focus_fix_title">Camera focus fix</string>
-    <string name="camera_focus_fix_summary">Enable if you have issues with the camera not focusing</string>
-
-    <!-- Wake on gesture -->
-    <string name="wake_on_gesture_title">Wake up on gestures</string>
-    <string name="wake_on_gesture_summary">Wake the device instead of pulsing notifications on gesture events</string>
-
-    <!-- Ambient Display Swipe Gesture -->
-    <string name="ambient_swipe_title">Ambient display swipe</string>
-    <string name="ambient_swipe_summary">Enable up or down swipe on Ambient Display</string>
 </resources>
