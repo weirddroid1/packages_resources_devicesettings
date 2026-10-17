@@ -18,3 +18,19 @@ android_library {
     sdk_version: "current",
 
 }
+
+android_library {
+    name: "org.lineageos.settings.resources",
+    defaults: [
+        "SettingsLibDefaults",
+    ],
+
+    resource_dirs: ["res"],
+
+    static_libs: [
+        "androidx.core_core",
+        "androidx.preference_preference",
+    ],
+    sdk_version: "current",
+
+}
