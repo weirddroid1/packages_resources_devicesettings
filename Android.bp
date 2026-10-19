@@ -4,7 +4,7 @@
 //
 
 android_library {
-    name: "org.lineageos.settings.resources",
+    name: "com.aicp.settings.resources",
     defaults: [
         "SettingsLibDefaults",
     ],
